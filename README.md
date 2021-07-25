@@ -5,5 +5,6 @@
 
 # 개발환경
 * IDE      : IntelliJ
+* JDK : OpenJDK 11
 * Framework : Spring Boot 2.5.2
 * Database : PostgreSQL Database
